@@ -2,11 +2,11 @@
 
 ### Overview
 
+This project is a composer package of the original OpenCageData-Address-Formatting library.
+
+The following is the original readme text of this library.
+
 This project contains templates and test cases for address formats used in territories around the world. The templates can then be processed in any programming language ([see below for list of processors](#processing-logic)).
-
-### Build Status
-
-[![Build Status](https://github.com/OpenCageData/address-formatting/actions/workflows/ci.yml/badge.svg)](https://github.com/OpenCageData/address-formatting/actions/workflows/ci.yml)
 
 ### An example:
 
