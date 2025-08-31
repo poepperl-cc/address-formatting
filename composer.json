@@ -1,0 +1,12 @@
+{
+    "name": "poepperl-cc/address-formatting",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "René Pöpperl",
+            "email": "rp@rene-poepperl.de"
+        }
+    ],
+    "require": {}
+}
